@@ -9,7 +9,7 @@
 
 - 🎓 **Гуженкова Анастасия**, студентка 2 курса, группа 41-ПМ  
   Орловский государственный университет им. И.С. Тургенева
-- 🌱 Изучаю веб-разработку и современные технологии
+- 🌱 Изучаю веб-разработку и программирование
 - 💖 Обожаю делать себе креативный маникюр с котиками
 - 🎮 В свободное время играю в **Minecraft**, **Dota 2**, **CS:GO 2** и **Brawl Stars**
 - 💻 Постепенно осваиваю программирование и мечтаю создавать крутые сайты
@@ -19,11 +19,9 @@
 ### 🛠️ Мои навыки
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-FFA5B9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF99AE?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-FF8DA3?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-FF80A0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-FFA5B9?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-FF99AE?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 ---
