@@ -50,9 +50,3 @@
     <img src="https://img.shields.io/badge/GitHub-FF99AE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <i>💅 "Красивый маникюр + любимая игра = идеальный вечер" 💅</i>
-</div>
