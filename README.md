@@ -40,9 +40,6 @@
 ### 📫 Связь со мной
 
 <p align="left">
-  <a href="mailto:makaroshka776@mail.ru">
-    <img src="https://img.shields.io/badge/Почта-FFB7C5?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Mail"/>
-  </a>
   <a href="https://vk.ru/evrthingoes">
     <img src="https://img.shields.io/badge/ВКонтакте-FFA5B9?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
@@ -50,3 +47,7 @@
     <img src="https://img.shields.io/badge/GitHub-FF99AE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+📧 **Почта:** makaroshka776@mail.ru
+
+---
